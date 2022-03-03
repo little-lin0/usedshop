@@ -23,13 +23,13 @@
         </dependency>
 
         <!--数据库连接池-->
+
+        <!--数据库驱动-->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>8.0.13</version>
         </dependency>
-        <!--数据库驱动-->
-
         <!--mybatis-plus-->
 
         <!--mybatis-plus 逆向工程模板-->
